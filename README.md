@@ -46,8 +46,12 @@
 Ruby on rails, postgreSQL, MySQL ,RENDER
 
 # ローカルでの動作方法
-今後実装予定
-
+% git clone https://github.com/naomi-ume/My_closet.git
+% cd My_closet
+% bundle install
+% rails db:create
+% rails db:migrate
+% yarn install
 # 工夫したポイント
 衣服管理アプリケーションは多数存在するのですが、衣服の類似品重複購入をせずに欲しいアパレルをブレずに購入できる機能に特化している衣服管理アプリケーションが存在していなかったので、今回それを実現させました。
 
