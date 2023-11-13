@@ -1,24 +1,10 @@
-# README
+# READ ME
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# アプリ名
+  My closet
 
-Things you may want to cover:
+# アプリケーション概要
+  My closetでは、自分の所有する全てのアパレル（衣服、ベルト、靴、鞄、ヘアアクセサリー、アクセサリー）を好きな時に把握し、欲しいアパレルの詳細をメモして確認出来ます。そして自分の本当に欲しいアパレルと購入アパレルが相違することがなくなるので、似たような色やデザイン重複購入を防止することができます。
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# URL
+  
