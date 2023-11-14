@@ -50,11 +50,11 @@ Ruby on rails, postgreSQL, MySQL ,RENDER
 ・タスク管理
 
 # ローカルでの動作方法
-% git clone https://github.com/naomi-ume/My_closet.git
-% cd My_closet
-% bundle install
-% rails db:create
-% rails db:migrate
+% git clone https://github.com/naomi-ume/My_closet.git <br>
+% cd My_closet <br>
+% bundle install <br>
+% rails db:create <br>
+% rails db:migrate <br>
 % yarn install
 # 工夫したポイント
 衣服管理アプリケーションはすでに多数存在するのですが、衣服の類似品重複購入を避けつつ、欲しいアパレルをブレずに購入できる機能に特化している衣服管理アプリケーションが存在していなかったので、既存の衣服管理アプリケーションとの差別化を図るために、類似アパレルの重複購入防止という点と、本当に欲しいアパレルを意思をブラさずに手に入れる仕組みを作るという点に着目し、それを叶え、実現させるアプリケーションを開発しました。
