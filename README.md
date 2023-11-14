@@ -40,7 +40,7 @@
 [![Image from Gyazo](https://i.gyazo.com/9dbcd42dd1b752d3e25b8e61c8165a66.png)](https://gyazo.com/9dbcd42dd1b752d3e25b8e61c8165a66)
 
 # 画面遷移図
-今後実装予定
+[![Image from Gyazo](https://i.gyazo.com/279115072c332fd7c1336d09dae7b976.png)](https://gyazo.com/279115072c332fd7c1336d09dae7b976)
 
 # 開発環境
 Ruby on rails, postgreSQL, MySQL ,RENDER
