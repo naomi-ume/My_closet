@@ -48,6 +48,7 @@ Ruby on rails, postgreSQL, MySQL ,RENDER
 ・バックエンド
 ・テキストエディタ
 ・タスク管理
+・インデントの自動整形ツール　rubocop
 
 # ローカルでの動作方法
 % git clone https://github.com/naomi-ume/My_closet.git <br>
@@ -62,4 +63,4 @@ Ruby on rails, postgreSQL, MySQL ,RENDER
 # 改善点
 より使いやすいUL／UXの調整
 # 制作時間
-7時間
+１０時間
