@@ -64,4 +64,4 @@ Ruby on rails, postgreSQL, MySQL ,RENDER
 # 改善点
 より使いやすいUL／UXの調整
 # 制作時間
-１０時間
+10時間
