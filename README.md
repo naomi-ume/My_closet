@@ -49,7 +49,7 @@ Ruby on rails, postgreSQL, MySQL ,RENDER
 ・バックエンド
 ・テキストエディタ
 ・タスク管理
-・インデントの自動整形ツール　rubocop
+・インデントの自動整形ツール rubocop
 
 # ローカルでの動作方法
 % git clone https://github.com/naomi-ume/My_closet.git <br>
